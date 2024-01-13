@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/landing/static/css/main.f554e5fa.css",
-    "main.js": "/landing/static/js/main.b098fefd.js",
+    "main.css": "/landing/static/css/main.dd353403.css",
+    "main.js": "/landing/static/js/main.70f99b56.js",
     "static/media/Hind-Regular.ttf": "/landing/static/media/Hind-Regular.4d32dabf118c5c7e3f48.ttf",
     "static/media/Hind-Medium.ttf": "/landing/static/media/Hind-Medium.099004e46ccd804f079b.ttf",
     "static/media/Montserrat-SemiBold.ttf": "/landing/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
@@ -28,11 +28,11 @@
     "static/media/getFetch.cjs": "/landing/static/media/getFetch.40f37ddea2378391108f.cjs",
     "static/media/arrow-show-more.svg": "/landing/static/media/arrow-show-more.b955ee5967588f919f37.svg",
     "static/media/arrow-slider.svg": "/landing/static/media/arrow-slider.94163b861b59cce9445b.svg",
-    "main.f554e5fa.css.map": "/landing/static/css/main.f554e5fa.css.map",
-    "main.b098fefd.js.map": "/landing/static/js/main.b098fefd.js.map"
+    "main.dd353403.css.map": "/landing/static/css/main.dd353403.css.map",
+    "main.70f99b56.js.map": "/landing/static/js/main.70f99b56.js.map"
   },
   "entrypoints": [
-    "static/css/main.f554e5fa.css",
-    "static/js/main.b098fefd.js"
+    "static/css/main.dd353403.css",
+    "static/js/main.70f99b56.js"
   ]
 }
