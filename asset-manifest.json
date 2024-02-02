@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/landing/static/css/main.0107ad47.css",
-    "main.js": "/landing/static/js/main.366ba407.js",
+    "main.js": "/landing/static/js/main.36b0a3aa.js",
     "static/media/Hind-Regular.ttf": "/landing/static/media/Hind-Regular.4d32dabf118c5c7e3f48.ttf",
     "static/media/Hind-Medium.ttf": "/landing/static/media/Hind-Medium.099004e46ccd804f079b.ttf",
     "static/media/Montserrat-SemiBold.ttf": "/landing/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
@@ -29,10 +29,10 @@
     "static/media/arrow-show-more.svg": "/landing/static/media/arrow-show-more.b955ee5967588f919f37.svg",
     "static/media/arrow-slider.svg": "/landing/static/media/arrow-slider.94163b861b59cce9445b.svg",
     "main.0107ad47.css.map": "/landing/static/css/main.0107ad47.css.map",
-    "main.366ba407.js.map": "/landing/static/js/main.366ba407.js.map"
+    "main.36b0a3aa.js.map": "/landing/static/js/main.36b0a3aa.js.map"
   },
   "entrypoints": [
     "static/css/main.0107ad47.css",
-    "static/js/main.366ba407.js"
+    "static/js/main.36b0a3aa.js"
   ]
 }
