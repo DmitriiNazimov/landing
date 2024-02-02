@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/landing/static/css/main.233cb87a.css",
-    "main.js": "/landing/static/js/main.af2840fb.js",
+    "main.js": "/landing/static/js/main.72a582e4.js",
     "static/css/567.dec18447.chunk.css": "/landing/static/css/567.dec18447.chunk.css",
     "static/js/567.537422ec.chunk.js": "/landing/static/js/567.537422ec.chunk.js",
     "static/css/302.23abe699.chunk.css": "/landing/static/css/302.23abe699.chunk.css",
-    "static/js/302.150a25f2.chunk.js": "/landing/static/js/302.150a25f2.chunk.js",
+    "static/js/302.074cbc1a.chunk.js": "/landing/static/js/302.074cbc1a.chunk.js",
     "static/css/114.183652b2.chunk.css": "/landing/static/css/114.183652b2.chunk.css",
     "static/js/114.5874d800.chunk.js": "/landing/static/js/114.5874d800.chunk.js",
     "static/media/Hind-Regular.ttf": "/landing/static/media/Hind-Regular.4d32dabf118c5c7e3f48.ttf",
@@ -35,16 +35,16 @@
     "static/media/arrow-show-more.svg": "/landing/static/media/arrow-show-more.b955ee5967588f919f37.svg",
     "static/media/arrow-slider.svg": "/landing/static/media/arrow-slider.94163b861b59cce9445b.svg",
     "main.233cb87a.css.map": "/landing/static/css/main.233cb87a.css.map",
-    "main.af2840fb.js.map": "/landing/static/js/main.af2840fb.js.map",
+    "main.72a582e4.js.map": "/landing/static/js/main.72a582e4.js.map",
     "567.dec18447.chunk.css.map": "/landing/static/css/567.dec18447.chunk.css.map",
     "567.537422ec.chunk.js.map": "/landing/static/js/567.537422ec.chunk.js.map",
     "302.23abe699.chunk.css.map": "/landing/static/css/302.23abe699.chunk.css.map",
-    "302.150a25f2.chunk.js.map": "/landing/static/js/302.150a25f2.chunk.js.map",
+    "302.074cbc1a.chunk.js.map": "/landing/static/js/302.074cbc1a.chunk.js.map",
     "114.183652b2.chunk.css.map": "/landing/static/css/114.183652b2.chunk.css.map",
     "114.5874d800.chunk.js.map": "/landing/static/js/114.5874d800.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.233cb87a.css",
-    "static/js/main.af2840fb.js"
+    "static/js/main.72a582e4.js"
   ]
 }
